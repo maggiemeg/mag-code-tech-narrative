@@ -3,14 +3,14 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: roboto;
+    font-family: alexandria;
     color: rgb(226, 220, 155);
     background-color: rgb(2, 2, 24);
   }  
 
 .hero-image {
 /* This selector controls the "hero image" class. You may need to change "hero.jpg" name/format to match your asset, or vice-versa */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("heroimageJPG.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("heroimageJPG.JPG");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
